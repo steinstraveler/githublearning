@@ -1,5 +1,5 @@
-# raspberry-car
+# raspberry-pi
 
-树莓派智能车
+主要用来存放树莓派的相关代码
 
-树莓派型号：Raspberry Pi 3B
+树莓派型号：3B+
